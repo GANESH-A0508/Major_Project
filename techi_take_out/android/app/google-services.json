@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049458825013",
+    "project_id": "techitakeout",
+    "storage_bucket": "techitakeout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049458825013:android:71f0688be57321c3539e7c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049458825013-doqskufot7f3d52906kbaenfo5624ko6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5xYqLICBBYuHqJ-RP_w2GWs7UcyzmJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049458825013-doqskufot7f3d52906kbaenfo5624ko6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
